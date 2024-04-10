@@ -18,6 +18,8 @@ An IAM identity provides access to an AWS account.
 Each IAM identity can be associated with one or more policies. Policies determine what actions a user, role, or member
 of a user group can perform, on which AWS resources, and under what conditions.
 
+AWS Reference: https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html.
+
 ## IAM Users
 
 - An IAM user is an entity that you create within your AWS account to represent the person or service that interacts

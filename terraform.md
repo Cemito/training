@@ -16,6 +16,9 @@ Terraform v1.7.5
 
 ## Create An IAM Role
 
+Find the resources you want to create on the Terraform site and add it such
+as Resource: [aws_iam_role](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_role)
+
 In a new file called main.tf copy and paste:
 
 ```terraform
